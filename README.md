@@ -10,7 +10,7 @@ PICERL tells you *what* phase you're in. Battle procedure tells you *how fast an
 formally* to move through it. Most IR plans are strong on the first and vague on the
 second; this one is built to close that gap.
 
-**Live version:** [cyberlav.io/incident-response.html](https://cyberlav.io) — also
+**Live version:** [cyberlav.io/incident-response.html](https://cyberlav.io)  also
 includes a companion one-page job aid and an interactive SMESC order builder.
 
 ## Structure
