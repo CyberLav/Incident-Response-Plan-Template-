@@ -27,7 +27,7 @@ Participants: [list]
 
 ## Facilitation Notes
 
-- Keep step 2 factual and blame-free — the goal is an accurate timeline, not assigning fault
+- Keep step 2 factual and blame-free. The goal is an accurate timeline, not assigning fault
 - Every item in step 5 needs a named owner and a date, or it will not get done
 - Feed metrics (MTTD/MTTC/MTTE/MTTR) into this review to track trend over time, not just
   this incident in isolation
