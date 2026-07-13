@@ -45,7 +45,7 @@ EXECUTION
     Phase 2: [Defensive operation]
     Phase 3: [Report]
 
-**Gentleman pens down eyes up** 
+** Gentleman pens down eyes up ** 
 
   Tasks by team/individual:
     - [Team/person]: [specific task] [deadline]
