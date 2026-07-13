@@ -65,7 +65,7 @@ COMMAND & SIGNAL
   Reporting channel: [out-of-band comms link]
 ```
 
-> This template is also being built as an interactive fill-in tool on cyberlav.io — this
+> This template is also being built as an interactive fill-in tool on cyberlav.io. This
 > file is the canonical schema it's built from.
 
 ---
